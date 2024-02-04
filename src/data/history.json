@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Full Stack Web Developer [Intern]",
+      "organisation": "AlmaBetter",
+      "startDate": "March, 2023",
+      "endDate": "Present",
+      "experiences": ["Working on Frondend and Backend"],
+      "imageSrc": "history/AlmaBetter.png"
+    },
+    {
+      "role": "Web Developer[Intern]",
+      "organisation": "Internshala",
+      "startDate": "Oct, 2022",
+      "endDate": "Feb, 2023",
+      "experiences": ["Gained good knowledge in Web development"],
+      "imageSrc": "history/Internshala.png"
+    },
+    {
+      "role": "Full stack web development",
+      "organisation": "AiRobosoft",
+      "startDate": "Aug, 2022",
+      "endDate": "Sep, 2022",
+      "experiences": [
+        "Worked on Fee Management System"
+      ],
+      "imageSrc": "history/AiRobosoft.png"
+    }
+  ]
+  
